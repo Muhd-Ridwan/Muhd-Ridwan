@@ -1,4 +1,9 @@
-## Hi 👋. My name is Muhammad Ridwan
+## Hi 👋, I am Muhammad Ridwan
+
+Student at Asia Pacific University
+
+- I'm currently studying Computer Science (Hons) in Software Engineer
+- I can be reach at muhdridwan432@gmail.com
 
 <!--
 **Muhd-Ridwan/Muhd-Ridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
