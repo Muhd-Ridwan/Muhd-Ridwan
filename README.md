@@ -2,7 +2,8 @@
 
 Student at Asia Pacific University
 
-- I'm currently studying Computer Science (Hons) in Software Engineer
+- I'm currently studying Bachelor Computer Science (Hons) in Software Engineer.
+- I'm currently doing internship at Asia Pacific University as DevOps.
 - I can be reach at muhdridwan432@gmail.com
 
 <!--
